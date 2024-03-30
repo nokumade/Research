@@ -1,0 +1,2 @@
+The Bristil Stock Exchange project is about the implementation of several trading bots and market simulation with the aim to get the highest profit.
+One of the best of these robots was the Sniper (SNPR). It's strategy was staying low, until the time is about to run out or the gap between best and worst price is low and steal the show.
